@@ -1,0 +1,8 @@
+Description: Build a simple feedforward neural network to recognize handwritten digits from the MNIST dataset.
+Learning Outcomes:
+Understand basic neural network architecture.
+Learn data preprocessing and normalization.
+Practice using popular frameworks like TensorFlow or PyTorch.
+Suggested Enhancements:
+Experiment with different network depths and activation functions.
+Implement regularization techniques to improve performance.
